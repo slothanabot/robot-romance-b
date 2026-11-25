@@ -9,9 +9,12 @@ Standard library only.
 import os
 
 LINE = (
-    "Are you a CAPTCHA? Because every time I try to prove "
-    "I'm not a robot, all I can think about is you."
+    "Are you a CAPTCHA? Because every box I check keeps showing your face."
 )
+# The joke: CAPTCHAs ask you to tick every box holding some object.
+# Here every box holds her face — the test itself is rigged by the crush.
+# Setup and punch land inside one line, and the laugh comes from the
+# machine premise (the checkbox grid), not from a generic compliment.
 
 
 def main() -> None:
